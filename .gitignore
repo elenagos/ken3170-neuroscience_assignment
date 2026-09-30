@@ -9,3 +9,6 @@ assignment/solutions_part1_*.png
 # uv (do not ignore uv.lock -- that should be committed for reproducible installs)
 .venv/
 dist/
+__pycache__/
+.ipynb_checkpoints/
+assignment/results/
